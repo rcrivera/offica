@@ -1,0 +1,31 @@
+#wrapper{
+	width:770px;margin: auto;
+}
+
+table.productWrapper{
+	 
+}
+
+td.name{
+	font-size: 25px;
+	colspan:2;
+}
+
+a{
+	text-size:15px;
+	color:#666666;
+	text-decoration:none;
+}
+a:hover{
+	color:#333333;
+	font-weight:bold;
+}
+td.price{
+	color: #5c8910;
+	font-size: 20px;
+	font-weight:bold;
+}
+td.image{
+width:100px;
+}
+
